@@ -1,4 +1,4 @@
-# IA do Caio 🤖
+# Minha primeira IA 🤖
 
 Projeto de chatbot de Inteligência Artificial feito com **Python**, **Streamlit** e **OpenAI**.
 
